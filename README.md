@@ -18,10 +18,15 @@ Visual components and Python
 
 ## Experiment:
 
-
 ## Program
+![Screenshot 2024-12-22 111017](https://github.com/user-attachments/assets/60d13f36-395d-4f78-a995-174d5a6d586c)
 
+![Screenshot 2024-12-22 111035](https://github.com/user-attachments/assets/8e0422b2-2de4-4433-823a-293b1af7529a)
 
 ## Output
 
+![Screenshot 2024-12-22 111047](https://github.com/user-attachments/assets/07df2d80-04cb-477c-a175-5cfb9306fad3)
+
 ## Result
+
+The average number of material in the system and in conyeyor and waiting time are sucessfully calculated.
